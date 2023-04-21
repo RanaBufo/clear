@@ -1,0 +1,63 @@
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.csproj.AssemblyReference.cache
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\App.g.cs
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2_MarkupCompile.cache
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2_MarkupCompile.lref
+D:\Project\Lab2\labb2\labb2\bin\Debug\net6.0-windows\labb2.exe
+D:\Project\Lab2\labb2\labb2\bin\Debug\net6.0-windows\labb2.deps.json
+D:\Project\Lab2\labb2\labb2\bin\Debug\net6.0-windows\labb2.runtimeconfig.json
+D:\Project\Lab2\labb2\labb2\bin\Debug\net6.0-windows\labb2.dll
+D:\Project\Lab2\labb2\labb2\bin\Debug\net6.0-windows\labb2.pdb
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.g.resources
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.AssemblyInfoInputs.cache
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.AssemblyInfo.cs
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.csproj.CoreCompileInputs.cache
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.dll
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\refint\labb2.dll
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.pdb
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\labb2.genruntimeconfig.cache
+D:\Project\Lab2\labb2\labb2\obj\Debug\net6.0-windows\ref\labb2.dll
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\bin\Debug\net6.0-windows\labb2.exe
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\bin\Debug\net6.0-windows\labb2.deps.json
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\bin\Debug\net6.0-windows\labb2.runtimeconfig.json
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\bin\Debug\net6.0-windows\labb2.dll
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\bin\Debug\net6.0-windows\labb2.pdb
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.csproj.AssemblyReference.cache
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2_MarkupCompile.cache
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2_MarkupCompile.lref
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.g.resources
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.AssemblyInfoInputs.cache
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.AssemblyInfo.cs
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.csproj.CoreCompileInputs.cache
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.dll
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\refint\labb2.dll
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.pdb
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\labb2.genruntimeconfig.cache
+C:\Users\GuraL\OneDrive\Рабочий стол\labb2\labb2\obj\Debug\net6.0-windows\ref\labb2.dll
+D:\Project\clear\labb2\labb2\bin\Debug\net6.0-windows\labb2.exe
+D:\Project\clear\labb2\labb2\bin\Debug\net6.0-windows\labb2.deps.json
+D:\Project\clear\labb2\labb2\bin\Debug\net6.0-windows\labb2.runtimeconfig.json
+D:\Project\clear\labb2\labb2\bin\Debug\net6.0-windows\labb2.dll
+D:\Project\clear\labb2\labb2\bin\Debug\net6.0-windows\labb2.pdb
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.csproj.AssemblyReference.cache
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\App.g.cs
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2_MarkupCompile.cache
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2_MarkupCompile.lref
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.g.resources
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.AssemblyInfoInputs.cache
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.AssemblyInfo.cs
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.csproj.CoreCompileInputs.cache
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.dll
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\refint\labb2.dll
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.pdb
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\labb2.genruntimeconfig.cache
+D:\Project\clear\labb2\labb2\obj\Debug\net6.0-windows\ref\labb2.dll
